@@ -1,5 +1,5 @@
 # Bear-and-Bees-in-C
-Producers/Consumers using Semaphores
+Multiple Producers(Bees) and One Consumer(Bear) using Semaphores
 
 Description of the specification for the solution:
 
